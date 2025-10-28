@@ -1,4 +1,46 @@
-.claude 
-logs
-.env 
+# Environment files
+.env
+.env.sample
 
+# ADWS (AI Developer Workflow System) - Exclude all related files
+# Main ADWS system directory
+.adws/
+
+# ADWS example specifications
+.adws-specs/
+
+# Worktree infrastructure
+.adw/
+
+# Claude Code configuration
+.claude/
+
+# Agent outputs
+agents/
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db

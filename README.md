@@ -16,7 +16,7 @@ This repository provides bite-sized, hands-on learning experiences for generativ
 
 | Folder  | Topic   | Description |
 | ------- | ------- | ----------- |
-| Item1.1 | Item2.1 | Item3.1     |
+| `different-inference-providers` | Inference Providers | Hands-on examples of various AI inference providers and their capabilities across multiple programming languages |
 
 ## Contributing
 
